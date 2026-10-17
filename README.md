@@ -88,6 +88,7 @@
 - [Drift](https://www.drift.com/) – Conversational marketing and chatbots for lead generation.
 - [Crisp](https://crisp.chat/) – Chat and CRM suite for customer messaging and automation.
 - [HelpScout](https://www.helpscout.com/) – Email-first help desk solution ideal for SaaS customer support.
+- [AISoule](https://aisoule.com/) – WhatsApp Cloud API shared team inbox, chatbot builder, and customer communication platform.
 
 ## Analytics, Metrics & Monitoring
 
